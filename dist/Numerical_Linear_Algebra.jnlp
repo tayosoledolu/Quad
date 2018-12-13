@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Numerical_Linear_Algebra.jnlp">
+  <information>
+    <title>Numerical_Linear_Algebra</title>
+    <vendor>vicksemmanuel</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Numerical_Linear_Algebra.jar" size="2243221" download="eager" />
+    <jar href="lib\jfoenix-8.0.8.jar" size="2708772" download="eager" />
+    <jar href="lib\jfoenix.jar" size="2206526" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Numerical_Linear_Algebra" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="numerical_linear_algebra.Numerical_Linear_Algebra"  name="Numerical_Linear_Algebra" />
+  <update check="always"/>
+</jnlp>

@@ -6,3 +6,5 @@
 
 Quad Numerical Analysis Tool is a linear algerba tool
 
+## Contributors
+![Image of Quad V.1.0](https://avatars3.githubusercontent.com/u/25255706?s=120&v=4)
